@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.task{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid white;
+  align-items: center;
+  padding: 0px 10px;
+  margin: 5px 0px;
+  border-radius: 8px;
+}
+
+input{
+  color:  #f9f9f9;
+}
+p{
+  color: #f9f9f9;
+  font-size: 16px;
+  font-weight: 400;
+}
